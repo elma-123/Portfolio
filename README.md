@@ -186,7 +186,7 @@ The project uses Tailwind's emerald color palette. Main colors:
 **Sabrin Ahmed Elma** <br>
 Bachelor of Science in Computer Science and Engineering, International Islamic University Chittagong
 
-- 📧 Email    : [Send Mail!](mailto:ahmedelma524@gmail.com)
+- 📧 Email    : [Send Mail!](https://mail.google.com/mail/?view=cm&fs=1&to=ahmedelma524@gmail.com)
 - 🌐 Facebook : [Sabrin Ahmed Elma](https://www.facebook.com/share/18kmGRp6Ry/?mibextid=wwXIfr)
 - 💼 LinkedIn : [Sabrin Ahmed Elma](https://www.linkedin.com/in/elma123)
 - 💻 GitHub   : [elma-123](https://github.com/elma-123)
